@@ -13,6 +13,8 @@
 
 Mute Volume, Lower/Raise volume, Play/Pause, Skip, Go Back, Toggle Lights, Blank, writes "test"
 
+Displays the Time
+
 ### CAD
 Designed in Fusion
 
